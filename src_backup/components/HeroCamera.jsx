@@ -17,6 +17,3 @@ const HeroCamera = ({ isMobile, children }) => {
 };
 
 export default HeroCamera;
-
-
-

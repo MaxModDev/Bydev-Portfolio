@@ -13,6 +13,3 @@ const Button = ({ name, isBeam = false, containerClass }) => {
 };
 
 export default Button;
-
-
-

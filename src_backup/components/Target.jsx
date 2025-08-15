@@ -26,6 +26,3 @@ const Target = (props) => {
 };
 
 export default Target;
-
-
-
