@@ -10,13 +10,13 @@ const Footer = () => {
       <div className="flex gap-3">
         <div className="flex gap-3">
   <a href="https://github.com/MaxModDev" target="_blank" rel="noopener noreferrer" className="social-icon">
-    <img src="assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+  <img src="/Bydev-portfolio/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
   </a>
   <a href="https://discord.gg/Gws7GgkDY7" target="_blank" rel="noopener noreferrer" className="social-icon">
-    <img src="assets/discord.svg" alt="discord" className="w-1/2 h-1/2" />
+  <img src="/Bydev-portfolio/assets/discord.svg" alt="discord" className="w-1/2 h-1/2" />
   </a>
   <a href="https://www.instagram.com/maxouforever" target="_blank" rel="noopener noreferrer" className="social-icon">
-    <img src="assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
+  <img src="/Bydev-portfolio/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
   </a>
 </div>
       </div>
